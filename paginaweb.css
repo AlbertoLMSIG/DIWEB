@@ -24,7 +24,7 @@ header{
 }
 
 .cont{
-    height: 600px;
+    height: 600%;
     margin-top: 50px;
     padding-left: 300px;
     /* margin-left: 250px;
@@ -67,9 +67,9 @@ header{
     float: left;
 }
 
-/* @media (max-width: 600px){
+@media (max-width: 600px){
     nav, article{
         width: 100%;
         height: auto;
     }
-} */
+}
